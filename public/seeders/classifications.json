@@ -1,0 +1,8 @@
+[
+    {"name":"Neurological", "image":"imgs/Neurological.jpg"},
+    {"name":"Supplements", "image":"imgs/Supplements.jpg"},
+    {"name":"Herbal", "image":"imgs/Herbal.jpg"},
+    {"name":"Dermatology", "image":"imgs/Dermatology.jpg"},
+    {"name":"Cardiovascular", "image":"imgs/Cardiovascular.jpg"},
+    {"name":"Pulmonary", "image":"imgs/Pulmonary.jpg"}
+]
